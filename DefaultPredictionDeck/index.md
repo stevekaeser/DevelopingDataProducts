@@ -36,7 +36,7 @@ Based on the formula above, the likelihood of a customer with those paramaters d
 
 ## The App
 
-I have created an application in Shiny that can be accessed from the following url <a href="https://stevekaeser.shinyapps.io/shiny/">https://stevekaeser.shinyapps.io/shiny/</a>.  Below is a screenshot of what you will see when you first open the application.
+I have created an application in Shiny that can be accessed from the following url <a href="https://stevekaeser.shinyapps.io/DefaultPrediction/">https://stevekaeser.shinyapps.io/DefaultPrediction/</a>.  Below is a screenshot of what you will see when you first open the application.
 
 <img width=100% src="assets/img/screenshot.png">
 
